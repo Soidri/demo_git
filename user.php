@@ -18,4 +18,9 @@ class ClassName extends AnotherClass
 	public function show(){
 	echo "Cette fonction permet de faire un git pull";
 	}
+
+	public function edit()
+	{
+		echo "Pour une edition";
+	}
 }
