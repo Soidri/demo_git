@@ -9,4 +9,9 @@ class ClassName extends AnotherClass
 	{
 		# code...
 	}
+
+	public function Index()
+	{
+		echo "Salut tout le monde !";
+	}
 }
