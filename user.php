@@ -14,4 +14,8 @@ class ClassName extends AnotherClass
 	{
 		echo "Salut tout le monde !";
 	}
+	
+	public function show(){
+	echo "Cette fonction permet de faire un git pull";
+	}
 }
