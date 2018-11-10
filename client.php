@@ -9,4 +9,7 @@ class ClassName extends AnotherClass
 	{
 		$this->image = $photo;
 	}
+	public function git_pull(){
+	echo "Fonction pour faire du pull";
+	}
 }
